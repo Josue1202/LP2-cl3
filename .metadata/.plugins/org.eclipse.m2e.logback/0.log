@@ -1,0 +1,139 @@
+2024-07-04 00:29:55,059 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-04 00:37:33,836 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.VillagarayRivasJosue:LPII_CL3_VillagarayRivasJosue.demo:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\pom.xml.
+2024-07-04 00:37:37,699 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/java
+2024-07-04 00:37:37,703 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 00:37:37,712 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 00:37:37,720 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/java
+2024-07-04 00:37:37,724 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/resources
+2024-07-04 00:37:41,199 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2024-07-04 00:37:41,205 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-04 00:37:42,449 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.VillagarayRivasJosue:LPII_CL3_VillagarayRivasJosue.demo:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\pom.xml.
+2024-07-04 00:37:44,839 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/java
+2024-07-04 00:37:44,841 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 00:37:44,843 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 00:37:44,844 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/java
+2024-07-04 00:37:44,845 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/resources
+2024-07-04 00:37:46,502 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 3,00 sec, update config takes 1,00 sec 
+2024-07-04 00:37:47,549 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-04 00:37:52,421 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.VillagarayRivasJosue:LPII_CL3_VillagarayRivasJosue.demo:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\pom.xml.
+2024-07-04 00:37:56,081 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/java
+2024-07-04 00:37:56,083 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 00:37:56,085 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 00:37:56,087 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/java
+2024-07-04 00:37:56,095 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/resources
+2024-07-04 00:37:57,710 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 8,00 sec, update config takes 1,00 sec 
+2024-07-04 00:38:01,768 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 00:38:01,802 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 00:38:01,821 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 00:42:30,665 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 00:42:30,671 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 00:42:30,691 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 00:42:37,853 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 00:42:37,858 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 00:42:37,884 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:24:47,265 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.VillagarayRivasJosue:LPII_CL3_VillagarayRivasJosue.demo:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\pom.xml.
+2024-07-04 01:24:52,932 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 01:24:52,947 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 01:24:53,024 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:30:12,371 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:30:12,426 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:30:12,445 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:34:49,345 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:34:49,358 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:34:49,414 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:36:08,101 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:36:08,113 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:36:08,138 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:38:42,562 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:38:42,579 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:38:42,587 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:39:37,655 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:39:37,669 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:39:37,681 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:40:17,994 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:40:18,043 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:40:18,060 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:40:58,031 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:40:58,043 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:40:58,055 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:41:33,300 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:41:33,311 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:41:33,366 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:44:51,495 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:44:51,507 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:44:51,515 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:47:16,690 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:47:16,705 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:47:16,739 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:52:44,959 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:52:45,023 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 01:52:45,032 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:55:03,705 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 01:55:03,721 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 01:55:03,727 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:58:39,250 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.VillagarayRivasJosue:LPII_CL3_VillagarayRivasJosue.demo:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\pom.xml.
+2024-07-04 01:58:41,206 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.pom
+2024-07-04 01:58:41,211 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.mysql:mysql-connector-java:jar:5.1.47 is missing, no dependency information available
+2024-07-04 01:58:41,960 [Worker-40: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar
+2024-07-04 01:58:43,046 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 01:58:43,051 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 01:58:43,059 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 01:58:43,922 [Worker-36: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47-sources.jar
+2024-07-04 01:58:43,982 [Worker-36: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.mysql:mysql-connector-java:5.1.47
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.mysql:mysql-connector-java:jar:sources:5.1.47
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-04 02:00:03,462 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.VillagarayRivasJosue:LPII_CL3_VillagarayRivasJosue.demo:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\pom.xml.
+2024-07-04 02:00:04,909 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 02:00:04,913 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 02:00:04,922 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:00:06,000 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:00:06,045 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 02:00:06,057 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:06:30,896 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 02:06:30,902 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:06:30,909 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:14:46,070 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-04 02:14:46,780 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.VillagarayRivasJosue:LPII_CL3_VillagarayRivasJosue.demo:0.0.1-SNAPSHOT @ C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\pom.xml.
+2024-07-04 02:14:47,965 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/java
+2024-07-04 02:14:47,967 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 02:14:47,968 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/main/resources
+2024-07-04 02:14:47,968 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/java
+2024-07-04 02:14:47,969 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LPII_CL3_VillagarayRivasJosue.demo/src/test/resources
+2024-07-04 02:14:48,621 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-07-04 02:14:49,313 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:14:49,338 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 02:14:49,362 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:21:34,813 [Worker-49: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:21:34,830 [Worker-49: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 02:21:34,838 [Worker-49: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:22:13,446 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:22:13,459 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 02:22:13,466 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:29:24,380 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:29:24,413 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 02:29:24,422 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:33:19,539 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:33:19,551 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 02:33:19,566 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:36:48,251 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:36:48,262 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-04 02:36:48,270 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources
+2024-07-04 02:46:50,232 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-04 02:46:50,247 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-07-04 02:46:50,253 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Josue\Desktop\LPII_CL3_VILAGARAYRIVASJOSUEGABRIEL\LPII_CL3_VillagarayRivasJosue.demo\src\test\resources

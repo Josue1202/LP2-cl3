@@ -1,0 +1,5 @@
+package com.VillagarayRivasJosue.basico.repositorio;
+
+public interface IProductoRepository {
+
+}

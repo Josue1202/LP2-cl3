@@ -1,0 +1,16 @@
+package com.villagarayrivas.demo.servicios;
+
+import java.util.List;
+
+import com.villagarayrivas.demo.modelos.ClassProductocl3;
+
+public interface IProductoServicio {
+	
+	//declaramos metodos
+	public List<ClassProductocl3> ListadoProductos();
+	public void Registrar(ClassProductocl3 clapro);
+	public ClassProductocl3 BuscarporId(Integer id);
+	public void Eliminar(Integer id);
+
+}
+
